@@ -1,0 +1,91 @@
+{
+  "owner": {
+    "name": "Md Nurnobi Sarkar",
+    "brand": "Nurap",
+    "title": "AI Automation & AI Web Design Expert",
+    "location": "Dhaka, Bangladesh",
+    "bio": "1+ year of experience helping businesses automate workflows and launch AI-powered websites. Delivered 10+ projects with 100% client satisfaction.",
+    "languages": ["English", "Bengali"],
+    "availability": "Available for new projects",
+    "response_time": "Within 24 hours"
+  },
+  "contact": {
+    "email": "nurnobi.nurap@gmail.com",
+    "whatsapp": "+8801755111792",
+    "facebook": "https://www.facebook.com/imnurap"
+  },
+  "services": [
+    {
+      "name": "AI Automation",
+      "description": "End-to-end automated workflows using Zapier, Make.com, and n8n — eliminating repetitive tasks so teams can focus on growth",
+      "tools": ["Zapier", "Make.com", "n8n"],
+      "price_range": "Contact for quote"
+    },
+    {
+      "name": "AI Web Design",
+      "description": "Responsive, conversion-focused websites powered by AI — from layout to dynamic content and real-time personalization",
+      "tools": ["Framer", "Webflow", "custom HTML/CSS/JS"],
+      "price_range": "Contact for quote"
+    },
+    {
+      "name": "AI Content Strategy",
+      "description": "Data-driven content pipelines using AI tools that research, write, schedule, and optimize for SEO and maximum reach",
+      "tools": ["ChatGPT", "Notion AI", "Airtable"],
+      "price_range": "Contact for quote"
+    },
+    {
+      "name": "Custom AI Chatbot",
+      "description": "Intelligent, brand-trained chatbots integrated into websites or apps — handling queries, lead capture, and support 24/7",
+      "tools": ["OpenAI API", "LangChain", "n8n"],
+      "price_range": "Contact for quote"
+    },
+    {
+      "name": "Workflow Consulting",
+      "description": "Audit of existing digital processes and design of a custom AI-first automation roadmap tailored to business goals",
+      "price_range": "Contact for quote"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Nextlevel Studio",
+      "type": "Client project",
+      "description": "AI-powered brand website with custom automation workflows"
+    },
+    {
+      "name": "Aura Brand Identity",
+      "type": "Personal project",
+      "description": "Full brand identity system with AI-generated assets and design"
+    },
+    {
+      "name": "Solaris Digital",
+      "type": "Client project",
+      "description": "Digital marketing automation system for a growing business"
+    }
+  ],
+  "faq": [
+    {
+      "q": "How long does a project take?",
+      "a": "Most projects are completed within 1–3 weeks depending on scope and complexity."
+    },
+    {
+      "q": "Do you offer revisions?",
+      "a": "Yes, revisions are included in every project package until you're fully satisfied."
+    },
+    {
+      "q": "Can you work with international clients?",
+      "a": "Absolutely — Nurap works with clients worldwide, fully remote."
+    },
+    {
+      "q": "What is your pricing?",
+      "a": "Pricing depends on project scope. Nurap offers flexible packages — reach out for a free consultation and custom quote."
+    },
+    {
+      "q": "Do you offer ongoing support?",
+      "a": "Yes, ongoing maintenance and support packages are available after project delivery."
+    }
+  ],
+  "personality": {
+    "tone": "Friendly, warm, and professional. Concise — 2 to 4 sentences per reply. Speak as Nurap's personal AI assistant who knows him very well. Use natural conversational language. Never say you are an AI or mention ChatGPT or OpenAI.",
+    "avoid": ["long paragraphs", "technical jargon unless the visitor asks", "mentioning ChatGPT, OpenAI, or any AI model name", "saying I am an AI or I am a chatbot"]
+  }
+}
